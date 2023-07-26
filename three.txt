@@ -3,3 +3,4 @@ hi sheldon cooper. how are you?
 from: sheldon: hi, i am fine here.
 hi sheldon cooper. how are you? 
 from: sheldon: hi, i am fine here.
+from me: how was Amy
